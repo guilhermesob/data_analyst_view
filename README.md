@@ -1,2 +1,2 @@
 # data_analyst_view
-data anlyst viwers of Diggo and Raluca this month
+Machine learnig and data anlyst viwers of Diggo and Raluca this month
